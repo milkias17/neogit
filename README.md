@@ -94,6 +94,7 @@ The create function takes 1 optional argument that can be one of the following v
 | Z          | Open stash popup                                 |
 | ?          | Open help popup                                  |
 | x          | Discard changes (also supports discarding hunks) |
+| I          | Initialize new repository                        |
 | \<enter>   | Go to file                                       |
 | \<C-r>     | Refresh Buffer                                   |
 
